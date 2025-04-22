@@ -1,2 +1,13 @@
 # X-DDoS
 Use this script wisely!
+
+Use this script as wisely as possible, I am not responsible for anything related to this script, I made it for educational purposes and for basic pentesting.
+
+tutorial install on termux, windows.
+```bash
+pip install -r install.txt
+```
+PASSWORD?
+```bash
+xddosfree
+```
