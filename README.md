@@ -11,3 +11,5 @@ PASSWORD?
 ```bash
 xddosfree
 ```
+Script View
+![Tampilan](https://github.com/user-attachments/assets/ce93461a-c3d0-45a4-9fbb-b38d51c2da01)
