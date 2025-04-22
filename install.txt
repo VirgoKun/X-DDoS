@@ -1,0 +1,9 @@
+colorama
+requests
+tqdm
+tabulate
+beautifulsoup4
+selenium
+webdriver-manager
+cloudscraper
+dnspython
