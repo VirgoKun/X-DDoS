@@ -5,6 +5,9 @@ Use this script as wisely as possible, I am not responsible for anything related
 
 tutorial install on termux, windows.
 ```bash
+git clone https://github.com/XbibzOfficial/X-DDoS.git
+```
+```bash
 pip install -r install.txt
 ```
 PASSWORD?
