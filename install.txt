@@ -1,5 +1,5 @@
 colorama
-crypto
+pycryptodome
 requests
 tqdm
 tabulate
