@@ -1,5 +1,5 @@
 import base64
-import Crypto from 'crypto'
+import Crypto import 'crypto'
 from Crypto.Cipher import AES
 from Crypto.Protocol.KDF import PBKDF2
 from Crypto.Util.Padding import unpad
