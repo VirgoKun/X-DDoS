@@ -1,4 +1,5 @@
 colorama
+crypto
 requests
 tqdm
 tabulate
